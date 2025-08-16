@@ -68,3 +68,27 @@ button{
     font-size: large;
     border-radius: 10px;
 }
+
+.cards{
+    display: flex;
+    gap: 16px;
+    justify-content: center;
+    padding: 16px;
+    margin: 10px;
+}
+
+.quote{
+    text-align: center;
+    font-size: 36px;
+    font-weight: bolder;
+}
+.card img{
+    height: 350px;
+    width: 300px;
+}
+.card-info{
+    display: flex;
+    justify-content: center;
+    font-weight: 600;
+    font-size: 15px;
+}
