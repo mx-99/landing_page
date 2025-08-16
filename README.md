@@ -1,10 +1,17 @@
-# 🖥️ Landing Page  The Odin Project Foundations
+# 🖥️ Landing Page 
 
-This is a **Landing Page** project completed as part of the [Foundations Course](https://www.theodinproject.com/lessons/foundations-landing-page) from **The Odin Project**. the goal is to build a complete, static web page from scratch based on a provided design mockup.
+This is a **Landing Page** project completed as part of the [Foundations Course](https://www.theodinproject.com/lessons/foundations-landing-page) from  **The Odin Project**.
+
+## Live prev
+[Live prev](https://mx-99.github.io/landing_page/)
+
 
 #### 🚀 What I Built
 
-A static landing page using **HTML** and **CSS**, replicating a sample design provided in the project brief. The focus was on layout, visual structure, and styling not on functionality or interactivity.
+![Screenshot](./images/screenshot.png)
+
+A static landing page using **HTML** and **CSS**, replicating a sample design provided in the project. 
+The focus was on layout, visual structure, and styling not on functionality or interactivity.
 
 #### 🎯 Project Objectives
 
@@ -13,9 +20,6 @@ A static landing page using **HTML** and **CSS**, replicating a sample design pr
 
   - Semantic HTML structure
   - CSS Flexbox for layout
-  - Font styling, color schemes, and spacing
-  - Image placement and sizing
-
 
 #### 🛠️ Skills & Tools Used
 
@@ -26,4 +30,6 @@ A static landing page using **HTML** and **CSS**, replicating a sample design pr
 #### ✨ Notes
 
 - This is not meant to be a pixel-perfect clone.
-
+- The images on this page are from a collection I gathered from the internet a while ago. <br>
+Unfortunately, I have forgotten the sources.
+If you own one, two, or more of the images, <br> Feel free to contact me to be credited or to have them removed.
