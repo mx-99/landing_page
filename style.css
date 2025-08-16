@@ -15,7 +15,7 @@ body{
     align-items: center;
     padding: 8px;
     height: 70px;
-    gap: 15em;
+    gap: 25em;
 }
 .name{
     font-size: 24px;
@@ -42,8 +42,7 @@ ul{
     background-color: #000000;
     display: flex;
     justify-content: space-evenly;
-    align-items: center;
-    gap: 10em;
+    gap: 16em;
     padding: 8px;
 }
 .text{
@@ -63,10 +62,13 @@ img{
 button{
     background-color: #3882F6;
     color: white;
-    width: 110px;
-    height: 40px;
+    width: 150px;
+    height: 50px;
     font-size: large;
+    font-weight: bold;
     border-radius: 10px;
+    border-color: white;
+    cursor: cell;
 }
 
 .cards{
@@ -77,7 +79,7 @@ button{
     margin: 10px;
 }
 
-.quote{
+.information{
     text-align: center;
     font-size: 36px;
     font-weight: bolder;
@@ -91,4 +93,46 @@ button{
     justify-content: center;
     font-weight: 600;
     font-size: 15px;
+}
+
+.info p:first-child {
+    font-weight: bolder;
+    font-size: 20px;
+}
+.quote-section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #E5E7E7;
+}
+blockquote{
+    font-size: 36px;
+    font-style: italic;
+    color:  #1f2937;
+}
+.attributor{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.call{
+    display: flex;
+    justify-content: center;}
+.action{
+    background: #3882F6;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    width: 600px;
+    height: 150px;
+    text-align: center;
+    color: white;
+}
+.btn{
+    width: 150px;
+    margin: auto;
+}
+.now{
+    font-weight: bolder;
+    font-size: larger;
 }
