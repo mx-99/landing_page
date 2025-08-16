@@ -136,3 +136,13 @@ blockquote{
     font-weight: bolder;
     font-size: larger;
 }
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #101624;
+    color: white;
+    height: 70px;
+    font-weight: bolder;
+    font-size: 30px;
+}
